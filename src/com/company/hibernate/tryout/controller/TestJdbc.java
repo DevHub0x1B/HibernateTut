@@ -1,4 +1,4 @@
-package com.company.hibernate.tryout;
+package com.company.hibernate.tryout.controller;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -22,6 +22,7 @@ public class TestJdbc {
 
             ex.printStackTrace();
         }
+
     }
 
 }
